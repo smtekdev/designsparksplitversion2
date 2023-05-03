@@ -231,7 +231,7 @@ footer{position: relative;}
 .split .split-front { position: absolute; top: 0; left: 0; width: 100%; justify-content: flex-end; height: 100%;  overflow: hidden;  display: flex;  align-items: center;}
 .split .split-front .front-bg{width: 100%; height: 100%; float: left; background: #000000; position: absolute; left: 0; top: 0;}
 .split .split-front .text-holder{position: relative; z-index: 2;}
-.split .inner h1{ width:100%;  float: left;  font-size: 15vw; font-weight: 700; padding-bottom:15px; overflow:hidden; -webkit-background-clip: text;    -webkit-text-fill-color: transparent; background-image: url(../images/hero1.jpg); background-size:contain; background-position: center;}
+.split .inner h1{ width:100%;  float: left;  font-size: 14vw; font-weight: 700; padding-bottom:15px; overflow:hidden; -webkit-background-clip: text;    -webkit-text-fill-color: transparent; background-image: url(../images/hero1.jpg); background-size:contain; background-position: center;}
 
 
 
